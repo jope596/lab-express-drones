@@ -1,8 +1,12 @@
 body {
   padding: 50px;
   font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+  background-image: url();
+  background-image: url(../images/wp1896530.jpg);
+  background-size: cover;
 }
 
-a {
-  color: #00b7ff;
-}
+ 
+  
+
+
